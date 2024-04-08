@@ -3,8 +3,6 @@ A detailed list of events in AI/ML Domain across the globe! this is still WIP an
 
 | Event Title | Date | Location | Mode | Link | Tags |
 |-------------|------|----------|------|------|------|
-| TrueFoundry Product Tour  |  |  |  | [Link]() |  |
-| event_title | date | location | mode | [Link](link) | Tags |
 | Data Science Salon Seattle | January 24, 2024 | Seattle USA | Hybrid | [Link](https://www.datascience.salon/seattle/) | Professionals, Leadership, Business |
 | AI Strategies: For Enterprise Success | January 24, 2024 | Bangalore India | Onsite | [Link](https://www.coe-iot.com/ai-strategies/#:~:text=AI%20Strategies%3A%20For%20Enterprise%20Success&text=In%20an%20era%20where%20data,steering%20organizations%20towards%20unparalleled%20success.) | Leadership, Business, Educational |
 | GDG MTV - DevFest AI | January 24, 2024 | Mountain View USA | Hybrid | [Link](https://gdg.community.dev/events/details/google-gdg-mountain-view-presents-gdg-mtv-devfest-ai/) | Students, Professionals, Educational |
