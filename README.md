@@ -14,7 +14,6 @@ For the latest updates and to book a demo with us, please visit the following li
 
 | **Event Name** | **Website Link** | **Month & Year** | **Date** | **City / State** | **Country** | **Mode** | **Tags** |
 |----------------|------------------|------------------|----------|------------------|-------------|----------|----------|
-| AI Strategies: For Enterprise Success | [Link](https://www.coe-iot.com/ai-strategies/#:~:text=AI%20Strategies%3A%20For%20Enterprise%20Success&text=In%20an%20era%20where%20data,steering%20organizations%20towards%20unparalleled%20success.) | January 2024 | Date | Bangalore | India | Onsite | AI, IOT, Business |
 | Boosting SaaS products with new technologies 2024 | [Link](https://gloriumtech.com/boosting-saas-products-with-new-technologies-2024/?utm_source=gogetgpt) | January 2024 | 24 | NA | NA | Virtual | Big Data, Data Science, Machine Learning |
 | Data Science Salon Seattle | [Link](https://www.datascience.salon/seattle/) | January 2024 | 24 | Seattle | USA | Hybrid | Machine Learning, Retail, Business |
 | GDG MTV - DevFest AI | [Link](https://gdg.community.dev/events/details/google-gdg-mountain-view-presents-gdg-mtv-devfest-ai/) | January 2024 | 24 | Mountain View | USA | Hybrid | Developers, AI, GCP |
