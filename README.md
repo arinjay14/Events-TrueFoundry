@@ -116,8 +116,6 @@ For the latest updates and to book a demo with us, please visit the following li
 | Enterprise Connect | [Link](https://enterpriseconnect.com/) | March 2024 | 23-26 | Orlando | USA | Onsite | Enterprise Communications |
 | MemCon 2024 | [Link](https://www.memorycon.com/events/memorycon?utm_source=gogetgpt) | March 2024 | 25-28 | Silicon Valley, CA | USA | Onsite | Memory and Storage Solutions |
 | CDAO Canada | [Link](https://cdao-canada.coriniumintelligence.com/?__hstc=212602251.9cde24e850b8c6df3caf3cede20014ee.1692702210791.1704789761451.1705406120274.6&__hssc=212602251.11.1705406120274&__hsfp=3463242631) | March 2024 | 26-27 | Toronto | Canada | Onsite | Data and Analytics Leadership |
-| xq | [Link](https://www.datacouncil.ai/) | March 2024 | 26-27
- | Austin | USA | Onsite | Data Engineering and Science |
 | First Annual Microsoft Fabric Community Conference | [Link](https://azuredataconf.com/#!/?utm_source=gogetgpt) | March 2024 | 26-28 | Las Vegas | USA | Onsite | Cloud Computing, Microsoft Technologies |
 | Imagine AI Live '24 | [Link](https://www.imagineai.live/?utm_source=gogetgpt) | March 2024 | 26-29 | Las Vegas | USA | Onsite | Innovation, AI Strategies |
 | Future of Chatbots & Conversational AI Summit | [Link](https://groupfuturistaevent.com/FOCA2024.3/) | March 2024 | 27-28 | Austin | USA | Onsite | Chatbots, Conversational AI |
