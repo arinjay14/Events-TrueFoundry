@@ -7,6 +7,6 @@ Welcome to the evolving Global AI/ML Events Calendar presented by [TrueFoundry](
 Please note: The list below is continuously being updated to include more events and provide the most current information. Check back regularly for new additions and details.
 
 For the latest updates and to book a demo with us, please visit the following links:
-[View the interactive table here!]([(https://docs.google.com/spreadsheets/d/e/2PACX-1vRg7-6LQ3d4nfJ1Ym00AXDICP4oSqz7GRyJqvk596fXRQ8uiAVWwU7PTRzoRpBvXB2LsRCi5O3v-EK8/pubhtml))
 
-<iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vRg7-6LQ3d4nfJ1Ym00AXDICP4oSqz7GRyJqvk596fXRQ8uiAVWwU7PTRzoRpBvXB2LsRCi5O3v-EK8/pubhtml?widget=true&amp;headers=false"></iframe>
+
+[Link to the Spreadsheet](https://docs.google.com/spreadsheets/d/e/2PACX-1vRg7-6LQ3d4nfJ1Ym00AXDICP4oSqz7GRyJqvk596fXRQ8uiAVWwU7PTRzoRpBvXB2LsRCi5O3v-EK8/pubhtml?gid=0&single=true)
