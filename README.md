@@ -1,15 +1,11 @@
-# Global AI/ML Events Calendar - TrueFoundry
+# Global AI/ML Events Calendar 
 
-Welcome to the evolving AI/ML Events Calendar presented by [TrueFoundry](https://www.truefoundry.com/). This curated list is dedicated to professionals, enthusiasts, and scholars in the artificial intelligence (AI) and machine learning (ML) domains. Our mission is to provide a comprehensive and up-to-date resource that covers significant conferences, workshops, and seminars happening across the globe.
+Welcome to the evolving AI/ML Events Calendar. This curated list is dedicated to professionals, enthusiasts, and scholars in the artificial intelligence (AI) and machine learning (ML) domains. Our mission is to provide a comprehensive and up-to-date resource that covers significant conferences, workshops, and seminars happening across the globe.
 
 ## Current List of Events (Subject to Updates)
 
 Please note: This list is updated monthly to incorporate new events and to provide the most up-to-date information. Regularly revisit this page to discover new additions and updates. Our focus is on developments in Artificial Intelligence and Machine Learning, and the events listed are tailored for professionals, businesses, enterprises, and individuals interested in these areas.
 
-For the latest updates and to book a demo with us, please visit the following links:
-
-- [TrueFoundry Website](https://www.truefoundry.com/)
-- [Book a Demo](https://www.truefoundry.com/book-demo)
 
 
 | **Event Name** | **Website Link** | **Month & Year** | **Date** | **City / State** | **Country** | **Mode** | **Tags** |
